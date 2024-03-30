@@ -14,7 +14,7 @@
 
 ## About The Project
 
-  ![Screen Shot](/Screenshots/home_screen.png)
+  ![Screen Shot](/flutter_newsapp/Screenshots/home_screen.png)
 
 Сервис для просмотра новостей, получаемых из удаленного API. Приложение имеет два экрана: первый - для просмотра ленты доступных новостей, второй - для просмотра конкретного объявления. 
 Также есть возможность смены темы, кнопка смены темы доступна из TabBar внизу экрана. Появилась возможность поставить лайк понравившейся новости, после чего она будет отображаться на экране
@@ -59,20 +59,20 @@ flutter run -d <device_id>
 
 ## Usage
 * Для просмотра конкретной новости нажмите на нее:
-  ![Screen Shot](/Screenshots/item_screen.png)
+  ![Screen Shot](/flutter_newsapp/Screenshots/item_screen.png)
 
 * Для перехода на первоисточник надмите на кнопку "Read more...":
-  ![Screen Shot](/Screenshots/read_more.png)
+  ![Screen Shot](/flutter_newsapp/Screenshots/read_more.png)
 
 * Для смены темы перейдите на соответствующую страницу с помощью TapBar и нажмите кнопку смены темы:
-  ![Screen Shot](/Screenshots/change_theme.png)
-![Screen Shot](/Screenshots/dark_theme.png)
+  ![Screen Shot](/flutter_newsapp/Screenshots/change_theme.png)
+![Screen Shot](/flutter_newsapp/Screenshots/dark_theme.png)
 
 * Для того, чтобы поставить/убрать лайк, нажмите на сердечко рядом с новостью:
-![Screen Shot](/Screenshots/add_to_favorites.png)
+![Screen Shot](/flutter_newsapp/Screenshots/add_to_favorites.png)
 
 *Понравившийся пост будет доступен во вкладке "Liked":
-![Screen Shot](/Screenshots/liked_list.png)
+![Screen Shot](/flutter_newsapp/Screenshots/liked_list.png)
 
 
 
