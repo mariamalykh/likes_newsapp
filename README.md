@@ -38,11 +38,9 @@ git clone https://github.com/mariamalykh/flutter_newsapp.git
 ```
 
 2. Перейдите в папку news app:
-   ```sh
-cd flutter newsapp
-```
 
 ```sh
+cd flutter newsapp
 cd news app
 ```
 
