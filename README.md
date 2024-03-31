@@ -41,6 +41,7 @@ git clone https://github.com/mariamalykh/flutter_newsapp.git
    ```sh
 cd flutter newsapp
 ```
+
 ```sh
 cd news app
 ```
